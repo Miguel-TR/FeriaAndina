@@ -1,0 +1,25 @@
+# Comparativa M1 · calcularTotal
+
+## Herramientas usadas
+- Herramienta A: Copilot
+- Herramienta B: Antigravity
+
+## Comparación
+| Criterio | Herramienta A | Herramienta B |
+|---|Copilot|Antigravity(w3b)|
+| Tiempo hasta una versión aceptable | 8min| 3min |
+| Correcciones necesarias |creación de un package.json e instalación de vistest | ninguna |
+| Tests (¿pasan? ¿cubren casos borde?) | si cubre | si cubre |
+| Fidelidad a AGENTS.md | alta| muy alta |
+
+## Qué acepté, qué corregí y por qué
+… Copailot: se acepto las peticiones correspondiente, en copilot se tuvo que dar la autorización de la creación de un package.json y dep. vites , porque no se pudo seguir el proceso de test.
+Antigravity: respeto el prompt asi como el AGENTS.md
+
+## Un caso borde que el prompt no contemplaba
+… Copilot: pudo contemplar casos como el descuento y el redondeo de forma efectiva.
+Antigravity: muy efectivo al ejecutar la tarea con precision
+
+## Para qué tarea usaría cada herramienta
+… Copilot: consutas de mala ejecución del promt, editar la misma.
+Antigravity: tareas de mayor envergadura/complejidad.
